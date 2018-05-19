@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-test",
+  "version": "1.0.0",
+  "description": "testing vuepress",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "vuepress build && firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienthoma/vuepress-test.git"
+  },
+  "author": "julien thoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julienthoma/vuepress-test/issues"
+  },
+  "homepage": "https://github.com/julienthoma/vuepress-test#readme"
+}
