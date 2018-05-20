@@ -1,7 +1,7 @@
 module.exports = {
   title: "Vuepress test",
   themeConfig: {
-    repo: 'julienthoma/vuepress-test',
+    repo: 'julienthoma/knowledge-portfolio',
     lastUpdated: 'Last Updated',
     nav: [
       {

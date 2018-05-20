@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A repository for saving all the relevant stuff I need to remember and to share with others",
   "scripts": {
+    "fu": "vuepress dev",
+    "dev": "./node_modules/vuepress/bin/vuepress.js dev",
     "build": "vuepress build && firebase deploy"
   },
   "author": "julien thoma",
