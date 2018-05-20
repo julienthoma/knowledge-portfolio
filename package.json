@@ -1,22 +1,13 @@
 {
-  "name": "vuepress-test",
+  "name": "knowledge-portfolio",
   "version": "1.0.0",
-  "description": "testing vuepress",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "A repository for saving all the relevant stuff I need to remember and to share with others",
   "scripts": {
     "build": "vuepress build && firebase deploy"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/julienthoma/vuepress-test.git"
-  },
   "author": "julien thoma",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/julienthoma/vuepress-test/issues"
-  },
-  "homepage": "https://github.com/julienthoma/vuepress-test#readme"
+  "dependencies": {
+    "vuepress": "git+https://github.com/vuejs/vuepress.git"
+  }
 }
