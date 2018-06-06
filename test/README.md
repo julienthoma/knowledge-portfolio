@@ -1,6 +1,7 @@
 ---
-test
+title: fubar
 ---
+
 # Random other Page
 asd
 ## Chapter other page
